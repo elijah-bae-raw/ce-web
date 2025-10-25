@@ -27,7 +27,7 @@
 
 #emu_keypad_buttons {
     display: block;
-    background-image: url(/modules/native_eZ80/img/emu_keypad_84pce.png);
+    background-image: url(./modules/native_eZ80/img/emu_keypad_84pce.png);
     background-repeat: no-repeat;
     background-position: center -15px;
     background-size: 100%;
@@ -36,7 +36,7 @@
 }
 
 #emu_keypad_buttons.ti83pce {
-    background-image: url(/modules/native_eZ80/img/emu_keypad_83pce.png);
+    background-image: url(./modules/native_eZ80/img/emu_keypad_83pce.png);
 }
 
 #emu_canvas {
